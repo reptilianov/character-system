@@ -1,2 +1,2 @@
 # character-system
-Generate editorial-ready character descriptions using AI analysis of approved questionnaire data.
+AI-powered web app for creating and developing fictional characters through an interactive questionnaire.
